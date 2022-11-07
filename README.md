@@ -1,7 +1,7 @@
 
-# Hello There!
+# Hi, I'm Abdul Hannan! 👋
 
-I am Abdul Hannan and I work in web and app development.
+I work in App and Web Development.
 
 I am a very passionate programmer and enjoy coding!
 I like to solve interesting problems and bring the most
