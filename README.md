@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Abdul Hannan.
-- 👀 I’m interested in android and web development.
-- 🌱 I’m currently learning android technologies.
-- 📫 How to reach me : abdulhannan8540680@gmail.com or linkedin: https://www.linkedin.com/in/abdul-hannan-8a78b01bb/
 
-<!---
-Rocky-Khan/Rocky-Khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello There!
+
+I am Abdul Hannan and I work in web and app development.
+
+    I am a very passionate programmer and enjoy coding!
+    I like to solve interesting problems and bring the most
+    efficient solutions to those problems.
+
+I love collaborative coding and enjoy programming with fellow programmers. 
+
+You can contact me via email: 
+abdulhannan8540680@gmail.com
+
+or linkedin: 
+https://www.linkedin.com/in/abdul-hannan-8a78b01bb/
+
