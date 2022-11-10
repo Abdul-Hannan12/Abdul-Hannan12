@@ -3,13 +3,12 @@
 
 I work in App and Web Development.
 
-I am a very passionate programmer and enjoy coding!
-I like to solve interesting problems and bring the most
-efficient solutions to those problems.
+I love programming and am a highly enthusiastic coder.
+I enjoy bringing the best answers to challenging problems and finding innovative solutions.
 
-I love collaborative coding and enjoy programming with fellow programmers. 
+I enjoy developing collaboratively and take pleasure in working with other programmers.
 
-You can contact me via email: 
+You may reach me via email at: 
 abdulhannan8540680@gmail.com
 
 or linkedin: 
