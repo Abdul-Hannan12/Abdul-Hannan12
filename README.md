@@ -5,6 +5,15 @@
 
 # Hi, I'm Abdul Hannan! 👋
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abdul-hannan-8a78b01bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto: abdulhannan8540680@gmail.com">
+    <img src="https://img.shields.io/badge/email-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
+  </a>
+</div>
+
 I work in App and Web Development.
 
 I love programming and am a highly enthusiastic coder.
