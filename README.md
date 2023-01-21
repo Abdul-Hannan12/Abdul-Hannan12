@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hi, I'm Abdul Hannan! 👋
+# Hi, I'm Abdul Hannan! 👋   
 
 
 <div id="badges">
@@ -13,7 +13,7 @@
   <a href="mailto: abdulhannan8540680@gmail.com">
     <img src="https://img.shields.io/badge/email-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
-</div>
+</div>   
 
 
 I work in App and Web Development.
