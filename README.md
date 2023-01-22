@@ -13,8 +13,9 @@
   <a href="mailto: abdulhannan8540680@gmail.com">
     <img src="https://img.shields.io/badge/email-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
-</div>   
+</div>  
 
+<br/>
 
 I work in App and Web Development.
 
