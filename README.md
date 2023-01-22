@@ -64,6 +64,8 @@ abdulhannan8540680@gmail.com
 
 or linkedin: 
 <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-Abdul Hannan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-8a78b01bb/)
+<a target="_blank" href="https://www.linkedin.com/in/abdul-hannan-8a78b01bb/">
+    <img src="https://img.shields.io/badge/-Abdul%20Hannan-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
