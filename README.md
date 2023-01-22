@@ -55,11 +55,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Khan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
 
+### :fire: How to reach me :
 
-You may reach me via email at: 
+You may reach me via email at:  
 abdulhannan8540680@gmail.com
 
 or linkedin: 
-https://www.linkedin.com/in/abdul-hannan-8a78b01bb/
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-8a78b01bb/)
+
 
