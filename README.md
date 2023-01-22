@@ -63,6 +63,7 @@ You may reach me via email at:
 abdulhannan8540680@gmail.com
 
 or linkedin: 
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-8a78b01bb/)
+<br/>
+[![Linkedin Badge](https://img.shields.io/badge/-Abdul Hannan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-8a78b01bb/)
 
 
