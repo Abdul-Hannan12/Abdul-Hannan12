@@ -60,12 +60,17 @@
 ### :fire: How to reach me :
 
 You may reach me via email at:  
-abdulhannan8540680@gmail.com
+<br/>
+<a href="mailto: abdulhannan8540680@gmail.com">
+  <img src="https://img.shields.io/badge/-Abdul%20Hannan-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+
+<br/>
 
 or linkedin: 
 <br/>
 <a target="_blank" href="https://www.linkedin.com/in/abdul-hannan-8a78b01bb/">
-    <img src="https://img.shields.io/badge/-Abdul%20Hannan-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Abdul%20Hannan-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 
