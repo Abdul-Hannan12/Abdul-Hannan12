@@ -52,6 +52,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rocky-Khan&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Khan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 You may reach me via email at: 
 abdulhannan8540680@gmail.com
