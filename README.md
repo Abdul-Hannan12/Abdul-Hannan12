@@ -1,9 +1,8 @@
 
-<div id="header" align="center">
+<div id="header" align="end" float="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<!-- # Hi, I'm Abdul Hannan! 👋  -->
 <h1>
   Hi, I'm Abdul Hannan! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -27,6 +26,10 @@ I love programming and am a highly enthusiastic coder.
 I enjoy bringing the best answers to challenging problems and finding innovative solutions.
 
 I enjoy developing collaboratively and take pleasure in working with other programmers.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 You may reach me via email at: 
 abdulhannan8540680@gmail.com
