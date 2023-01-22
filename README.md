@@ -20,12 +20,16 @@
 
 <br/>
 
-I work in App and Web Development.
+---
 
-I love programming and am a highly enthusiastic coder.
-I enjoy bringing the best answers to challenging problems and finding innovative solutions.
+### :man_technologist: About Me :
 
-I enjoy developing collaboratively and take pleasure in working with other programmers.
+- I work in App and Web Development.
+
+- I love programming and am a highly enthusiastic coder.
+- I enjoy bringing the best answers to challenging problems and finding innovative solutions.
+
+- I enjoy developing collaboratively and take pleasure in working with other programmers.
 
 ---
 
