@@ -64,7 +64,8 @@ You may reach me via email at:
 <a href="mailto: abdulhannan8540680@gmail.com">
   <img src="https://img.shields.io/badge/-Abdul%20Hannan-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
-  
+    
+    
 or linkedin: 
 
 <a target="_blank" href="https://www.linkedin.com/in/abdul-hannan-8a78b01bb/">
