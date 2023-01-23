@@ -65,6 +65,7 @@ You may reach me via email at:
   <img src="https://img.shields.io/badge/-Abdul%20Hannan-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
     
+ <br/>
     
 or linkedin: 
 
