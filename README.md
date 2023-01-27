@@ -57,7 +57,7 @@
 
 ---
 
-### :fire: How to reach me :
+### :incoming_envelope: How to reach me :
 
 You may reach me via email at:  
 
