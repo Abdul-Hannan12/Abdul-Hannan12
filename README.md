@@ -57,6 +57,8 @@
 
 ---
 
+https://komarev.com/ghpvc/?username=Rocky-Khan&label=Profile%20views&color=0e75b6&style=flat
+
 ### :incoming_envelope: How to reach me :
 
 You may reach me via email at:  
