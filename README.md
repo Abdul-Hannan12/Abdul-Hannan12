@@ -50,11 +50,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucket" **alt="BitBucket" width="40" height="40"/>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" title="Asana" **alt="Asana" width="40" height="40">
-  <circle cx="16" cy="26" r="6" fill="#f06a6e"/>
-  <circle cx="26" cy="10" r="6" fill="#f06a6e"/>
-  <circle cx="6" cy="10" r="6" fill="#f06a6e"/>
-</svg>
+  <img src="https://assets.asana.biz/transform/a7a22837-213c-4d66-8ff6-ec83dbf43641/logo-secondary?io=transform:fill,width:2560&format=webp" title="Asana" **alt="Asana" width="40" height="40"/>
+
 </div>
 
 ---
